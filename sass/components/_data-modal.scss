@@ -196,7 +196,7 @@
   .checkbox:checked + & {
     background-color: $accent-color;
     border-color: transparent;
-    background-image: url(../../images/checkbox.svg);
+    background-image: url(../images/checkbox.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-origin: border-box;
